@@ -1,11 +1,8 @@
-import './App.css'
-
 function App() {
   return (
     <>
-      <h1>Software Release Integrity Registry</h1>
-      <div className="card">
-        <p>Verify and Download Software Releases with Confidence!</p>
+      <div className="h-screen w-full bg-gray-900 text-white">
+        <h1 className="">Software Release Integrity Registry</h1>
       </div>
     </>
   )
